@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Beginning State"
-date:   2020-09-15 11:50:30 -0500
-categories: Coding Courses MOOCs
+date:   2020-09-15 13:50:30 -0500
+categories: Coding
 ---
 As I begin this site, it's probably best to recap what I have done in the last couple weeks.
 

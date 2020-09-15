@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Steve Williams.  I am nearing 40 years old and have been working in my current profession for about 15 years.  I have always had a thirst for knowledge, ranging from woodworking and fitness to quadcopter design and arduino.  Lately, I find myself yearning for specialized workout apps or automated tasks on computers.  I hope to be able to satisfy my own requirements for these applications and maybe even make them available to the public.  I'm not big on marketing myself and prefer to give things away rather than figure out how to come up with a marketable price for my idle-time projects.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site will be about my quest for IT knowledge (and maybe a little bit of the other stuff mixed in).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am happily married to my highschool flame with 2 amazing kids, a dog, a couple chickens, and recently a squirrel. (Here's hoping the squirrel makes the move to friendly neighborhood rodent)
 
-
-[jekyll-organization]: https://github.com/jekyll
