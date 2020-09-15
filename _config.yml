@@ -22,7 +22,7 @@ title: Keep Moving Along
 email: leostevo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This will be a journal chronicling my education in the IT world. I hope 
-  to host some of my projects as well as my course work.  
+  to host some of my projects as well as courses completed.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:\\Steve-Williams-32578.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
