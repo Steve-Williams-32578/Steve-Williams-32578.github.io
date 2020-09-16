@@ -8,5 +8,5 @@ My name is Steve Williams.  I am nearing 40 years old and have been working in m
 
 This site will be about my quest for IT knowledge (and maybe a little bit of the other stuff mixed in).
 
-I am happily married to my highschool flame with 2 amazing kids, a dog, a couple chickens, and recently a squirrel. (Here's hoping the squirrel makes the move to friendly neighborhood rodent)
+I am happily married to my highschool flame with 2 amazing kids, a dog, a couple chickens, a snake,  and recently a squirrel. (Here's hoping the squirrel makes the move to friendly neighborhood rodent)
 
