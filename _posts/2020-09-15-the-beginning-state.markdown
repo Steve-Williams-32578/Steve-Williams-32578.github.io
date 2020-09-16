@@ -14,17 +14,17 @@ I started looking for online programs and stumbled into edX.  I found a [compute
 
 I'll get the next week of material tomorrow at 10am.  I hope to update this site when I complete that next chunk of work.
 
-Comment section to come in future posts.
+Let me know you've seen the site or comment on my journey below.
 
 
 [cyber-security]:https://onlinedegrees.uwf.edu/online-degrees/ms-masters-cybersecurity/
 [edX]:https://courses.edx.org/dashboard/programs/fe8425d1-d6be-4f58-a0e1-3d0df7f810ae/
 
 
-#Comment section code is below**
+<!---Comment section code is below**
 #===========================================================================
 
-#Link to show how many comments
+#Link to show how many comments--->
 <script>
 var idcomments_acct = 'ad8815bf8c1609811759c19d0add5e6e';
 var idcomments_post_id;
@@ -32,7 +32,7 @@ var idcomments_post_url;
 </script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
 
-#Comment section
+<!---#Comment section--->
 <script>
 var idcomments_acct = 'ad8815bf8c1609811759c19d0add5e6e';
 var idcomments_post_id;
