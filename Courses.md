@@ -1,6 +1,6 @@
 layout: page
 title: "Courses I'm Working Thru"
-permalink: /Courses/
+permalink: ./courses/
 
 I began my journey with Beginning C# 7 with Visual Studio 2017.  This book was an excellent introduction but I became very frustrated half way thru with
 repeated typographical errors.  
