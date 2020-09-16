@@ -19,3 +19,24 @@ Comment section to come in future posts.
 
 [cyber-security]:https://onlinedegrees.uwf.edu/online-degrees/ms-masters-cybersecurity/
 [edX]:https://courses.edx.org/dashboard/programs/fe8425d1-d6be-4f58-a0e1-3d0df7f810ae/
+
+
+#Comment section code is below**
+#===========================================================================
+
+#Link to show how many comments
+<script>
+var idcomments_acct = 'ad8815bf8c1609811759c19d0add5e6e';
+var idcomments_post_id;
+var idcomments_post_url;
+</script>
+<script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+
+#Comment section
+<script>
+var idcomments_acct = 'ad8815bf8c1609811759c19d0add5e6e';
+var idcomments_post_id;
+var idcomments_post_url;
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'>
