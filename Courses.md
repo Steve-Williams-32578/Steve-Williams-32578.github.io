@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Courses I'm Working Thru"
+title: "Courses"
 permalink: ./courses/
 ---
 
