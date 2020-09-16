@@ -14,6 +14,8 @@ I started looking for online programs and stumbled into edX.  I found a [compute
 
 I'll get the next week of material tomorrow at 10am.  I hope to update this site when I complete that next chunk of work.
 
+Comment section to come in future posts.
+
 
 [cyber-security]:https://onlinedegrees.uwf.edu/online-degrees/ms-masters-cybersecurity/
 [edX]:https://courses.edx.org/dashboard/programs/fe8425d1-d6be-4f58-a0e1-3d0df7f810ae/
